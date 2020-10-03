@@ -1,0 +1,10 @@
+D:\Program Files\Windows Projects\PrespManager\PrespManager\bin\Debug\PrespManager.exe.config
+D:\Program Files\Windows Projects\PrespManager\PrespManager\bin\Debug\PrespManager.exe
+D:\Program Files\Windows Projects\PrespManager\PrespManager\bin\Debug\PrespManager.pdb
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.csprojAssemblyReference.cache
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.Properties.Resources.resources
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.csproj.GenerateResource.cache
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.csproj.CoreCompileInputs.cache
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.exe
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.pdb
+D:\Program Files\Windows Projects\PrespManager\PrespManager\obj\Debug\PrespManager.Forms.MainForm.resources
